@@ -33,7 +33,7 @@
        
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.compiler.version>1.7</java.compiler.version>
-        <elasticsearch.version>1.4.0</elasticsearch.version>
+        <elasticsearch.version>6.8.13</elasticsearch.version>
         <netty.version>3.9.1.Final</netty.version>
     </properties>
 
